@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # I am Saugat Chaudhary
-#![COMMANDER](https://img.shields.io/badge/Rating-⭐⭐⭐⭐⭐-FFD700?style=flat&logo=star&logoColor=white)
+##
+![COMMANDER IN CHIEF](https://img.shields.io/badge/Commander%20in%20Chief-⭐⭐⭐⭐⭐-00599C?style=flat&logo=star&logoColor=FFD700)
+
 
 ## About Me
 I'm a student specializing in software engineering and development. I enjoy ....
