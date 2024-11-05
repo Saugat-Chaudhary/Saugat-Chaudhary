@@ -25,7 +25,7 @@ I'm a student specializing in software engineering and development. I enjoy ....
 - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saugat-Chaudhary&show_icons=true)
 
 
 
