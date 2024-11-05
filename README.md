@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # I am Saugat Chaudhary
 ##
-![COMMANDER IN CHIEF](https://img.shields.io/badge/Commander%20in%20Chief-⭐⭐⭐⭐⭐-00599C?style=flat&logo=star&logoColor=FFD700)
+![COMMANDER IN CHIEF](https://img.shields.io/badge/Commander-⭐⭐⭐⭐⭐-00599C?style=flat&logo=star&logoColor=FFD700)
 
 
 ## About Me
