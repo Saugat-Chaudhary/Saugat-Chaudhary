@@ -24,8 +24,15 @@ I'm a student specializing in software engineering and development. I enjoy ....
 - ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saugat-Chaudhary&show_icons=true)
+## 📊 GitHub Stats & Activity
+![Saugat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saugat-Chaudhary&show_icons=true&count_private=true&hide_title=true&theme=radical&hide=prs,issues&include_all_commits=true)
+
+### 🌱 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saugat-Chaudhary&layout=compact&theme=radical)
+
+### 📅 Contributions Overview
+![Saugat's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Saugat-Chaudhary&theme=github)
+
 
 
 
