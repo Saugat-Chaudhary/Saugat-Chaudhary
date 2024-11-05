@@ -30,9 +30,6 @@ I'm a student specializing in software engineering and development. I enjoy ....
 - ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-## 📊 GitHub Stats & Activity
-![Saugat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saugat-Chaudhary&show_icons=true&count_private=true&hide_title=true&theme=radical&hide=prs,issues&include_all_commits=true)
-
 ### 🌱 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saugat-Chaudhary&layout=compact&theme=radical)
 
