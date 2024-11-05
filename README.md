@@ -29,6 +29,8 @@ I'm a student specializing in software engineering and development. I enjoy ....
 
 ### 🌱 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saugat-Chaudhary&layout=compact&theme=radical)
+
+###
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Saugat-Chaudhary)
 
 
