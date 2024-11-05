@@ -14,22 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Your Name
+# I am Saugat Chaudhary
 
 ## About Me
-I'm a [Your Job Title] specializing in [Your Specialization]. I enjoy [hobbies/interests].
+I'm a student specializing in software engineering and development. I enjoy ....
 
 ## Languages I Use
 - ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-- ![C++](https://img.shields.io/badge/C++-black)
+- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
-## Coding Activity
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername)
 
-## Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
 
