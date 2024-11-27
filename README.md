@@ -33,9 +33,7 @@ I'm a student specializing in software engineering and development. I enjoy ....
 ### 🌱 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saugat-Chaudhary&layout=compact&theme=radical)
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
-![Code Coverage](https://img.shields.io/badge/coverage-80%25-brightgreen.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Custom Badge](https://yourimagehost.com/custom-badge.png)
 
 
 ###WIll be adding soon...
